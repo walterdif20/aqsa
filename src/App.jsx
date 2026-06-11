@@ -417,11 +417,7 @@ function App() {
                 <ClipboardCheck size={16} strokeWidth={2.5} aria-hidden="true" />
                 Mostramos trabajos reales
               </p>
-              <h2 id="gallery-title">Compartimos fotos de nuestros trabajos y equipos.</h2>
-              <p>
-                Usamos imágenes reales para mostrar escala, materiales y tipos de intervención sin
-                recurrir a fotografía genérica.
-              </p>
+              <h2 id="gallery-title">Fotos de nuestros trabajos y equipos.</h2>
             </div>
 
             <div className="gallery-grid">
