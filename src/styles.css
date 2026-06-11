@@ -91,6 +91,21 @@ p {
   line-height: 1.72;
 }
 
+.hero-copy,
+.intro-grid > p,
+.section-heading > p,
+.sticky-copy > p,
+.service-card p,
+.safety-item p,
+.clients-grid > div:first-child p,
+.faq-item p,
+.contact-grid > div:first-child p {
+  hyphens: auto;
+  text-align: justify;
+  text-align-last: left;
+  text-justify: inter-word;
+}
+
 .site-header {
   position: sticky;
   top: 0;
